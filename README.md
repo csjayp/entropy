@@ -1,11 +1,4 @@
-ENTROPY(1)		FreeBSD General Commands Manual 	    ENTROPY(1)
-
-
-# NAME
-```
-  entropy - calculate data entropy
-```
-
+## Entropy: Calculate data entropy
 
 # SYNOPSIS
 ```
